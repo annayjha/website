@@ -10,7 +10,7 @@ line 99   - block: markdown
 
 
 ## Edit site locally (use Hugo)
-1. navigate to ~/2024website/annayjha.github.io
+1. navigate to ~/2024website/annayjha.github.io (compare with broken-annayjha.)
 2. git pull 
 3. hugo server 
 4. check the local site on safari
