@@ -15,3 +15,10 @@ line 99   - block: markdown
 3. hugo server 
 4. check the local site on safari
 
+
+## git commands 
+1. git pull 
+2. git status 
+3. git add . 
+4. git commit -m ''
+5. git push
