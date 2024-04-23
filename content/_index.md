@@ -102,10 +102,10 @@ sections:
       title: Latest News & Travels
       subtitle:  
       text: |-
-        - ✈️ &nbsp; ICML 2023 @ Honolulu, Hawaii, USA (July 23 - 29) 
-        - ✈️ &nbsp; USENIX Security 2023 @ Anaheim, CA, USA (Aug 9 - 11)
-        - ✈️ &nbsp; CCS 2023 @ Copenhagen, Denmark (Nov 26 - 30)
         - ✈️ &nbsp; IEEE S&P @ San Francisco, CA, USA (May 20 - 23)
+        - ✈️ &nbsp; CCS 2023 @ Copenhagen, Denmark (Nov 26 - 30)
+        - ✈️ &nbsp; USENIX Security 2023 @ Anaheim, CA, USA (Aug 9 - 11)
+        - ✈️ &nbsp; ICML 2023 @ Honolulu, Hawaii, USA (July 23 - 29) 
 
 
     design:
