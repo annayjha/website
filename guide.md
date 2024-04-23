@@ -20,6 +20,13 @@ appearance:
 
 data/themes/custom.toml and new.toml
 
+**when hugo was good but github displayed 404 error:
+- Create a file named publish.yml in the .github/workflows/ folder of your site, creating the folders if necessary.
+Edit your publish.yml and paste the [GitHub Pages workflow for Hugo](https://github.com/HugoBlox/hugo-blox-builder/blob/main/starters/blog/.github/workflows/publish.yaml) .
+- Tell GitHub that you want to use GitHub Pages to host your website by clicking Settings > Pages > Source and then choosing GitHub Actions.
+- Now head to Actions > Deploy Website > Run workflow and click the Run workflow button to publish the site with GitHub Pages hosting:
+
+
 ## Edit site locally (use Hugo)
 1. navigate to ~/2024website/annayjha.github.io (compare with broken-annayjha.)
 2. git pull 
