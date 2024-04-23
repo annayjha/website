@@ -1,13 +1,13 @@
 # SITE SETUP
-# Guide: https://docs.hugoblox.com/tutorial/
-# Documentation: https://docs.hugoblox.com/
+# Guide: https://wowchemy.com/docs/getting-started/
+# Documentation: https://wowchemy.com/docs/
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 # Appearance
 
 appearance:
-  theme_day: minimal
-  theme_night: minimal
+  theme_day: new
+  theme_night: new
   font: minimal
   font_size: L
 
@@ -24,7 +24,7 @@ marketing:
     google_analytics: ''
     baidu_tongji: ''
     google_tag_manager: ''
-    microsoft_clarity: ''
+    microsoft_clarity: ''  
   verification:
     google: ''
     baidu: ''
@@ -45,7 +45,7 @@ header:
 
 footer:
   copyright:
-    notice: '© {year} Me. This work is licensed under {license}'
+    notice: '© {year} Anna 💛 and wowchemcy'
     license:
       enable: true
       allow_derivatives: false
@@ -70,12 +70,12 @@ features:
   privacy_pack:
     enable: false
   repository:
-    url: 'https://github.com/<username>/<repository>'
+    url: 'https://github.com/annayjha/annayjha.git'
     content_dir: content
     branch: main
   avatar:
     gravatar: false
-    shape: circle
+    shape: circle #square
   comment:
     provider: ''
     disqus:
@@ -96,7 +96,7 @@ features:
       index_name: ''
       show_logo: false
   map:
-    provider: 'mapnik'
+    provider: ''
     api_key: ''
     zoom: 15
 
