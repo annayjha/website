@@ -26,6 +26,9 @@ Edit your publish.yml and paste the [GitHub Pages workflow for Hugo](https://git
 - Tell GitHub that you want to use GitHub Pages to host your website by clicking Settings > Pages > Source and then choosing GitHub Actions.
 - Now head to Actions > Deploy Website > Run workflow and click the Run workflow button to publish the site with GitHub Pages hosting:
 
+7. add publications 
+- add folder under /publications/ 
+- then what...?
 
 ## Edit site locally (use Hugo)
 1. navigate to ~/2024website/annayjha.github.io (compare with broken-annayjha.)
