@@ -28,7 +28,7 @@ Edit your publish.yml and paste the [GitHub Pages workflow for Hugo](https://git
 
 7. add publications 
 - add folder under /publications/ 
-- then what...?
+- Make sure the "publishDate" near line 20 is not in the future!! 
 
 ## Edit site locally (use Hugo)
 1. navigate to ~/2024website/annayjha.github.io (compare with broken-annayjha.)
