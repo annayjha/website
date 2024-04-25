@@ -8,6 +8,7 @@ jsconfig.json
 node_modules/
 go.sum
 .hugo_build.lock
-# .github/
+.github/
 .editorconfig
 academic.Rproj
+.DS_Store
