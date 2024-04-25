@@ -30,8 +30,13 @@ Edit your publish.yml and paste the [GitHub Pages workflow for Hugo](https://git
 - add folder under /publications/ 
 - Make sure the "publishDate" near line 20 is not in the future!! 
 
+8. Changing Fonts/style using CSSS 
+- 'author_highlighted' class [for changing my name to bold/italics/underline](https://github.com/HugoBlox/hugo-blox-builder/blob/137ebf6fdc28a98ae9de519c5673df509344238c/modules/blox-bootstrap/assets/scss/wowchemy/elements/_content.scss#L154)
+- [customize the style] (https://bootstrap.hugoblox.com/hugo-tutorials/extending-wowchemy/#customize-style-css) i.e. created /assets/scss/custom.scss
+
+
 ## Edit site locally (use Hugo)
-1. navigate to ~/2024website/annayjha.github.io (compare with broken-annayjha.)
+1. navigate to ~/2024website/website (compare with broken-annayjha.)
 2. git pull 
 3. hugo server 
 4. check the local site on safari
