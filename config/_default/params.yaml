@@ -76,7 +76,7 @@ features:
     branch: main
   avatar:
     gravatar: false
-    shape: circle #square
+    shape: circle #circle #square
   comment:
     provider: ''
     disqus:

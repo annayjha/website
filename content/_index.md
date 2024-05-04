@@ -8,7 +8,7 @@ sections:
   - block: about.biography
     id: about
     content:
-      title: <p class="me">👋 </p>
+      title: #<p class="me">👋 </p>
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
   # - block: features

@@ -9,3 +9,4 @@ cascade:
     render: never
     list: always
 ---
+{{ $image := resources.Get "admin/avatar.jpg" }} <img src="{{$image.Permalink}}">

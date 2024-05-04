@@ -37,7 +37,7 @@ outputs:
   section: [HTML, RSS]
 imaging:
   resampleFilter: lanczos
-  quality: 75
+  quality: 100
   anchor: smart
 timeout: 600000
 taxonomies:
@@ -47,6 +47,7 @@ taxonomies:
   author: authors
 markup:
   _merge: deep
+  unsafe: true
 related:
   threshold: 80
   includeNewer: true
@@ -62,3 +63,8 @@ sitemap:
   _merge: deep
 minify:
   _merge: deep
+
+# [markup.goldmark.renderer]
+# unsafe = true
+
+logo: content/authors/admin/avatar.jpg
