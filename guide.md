@@ -43,7 +43,7 @@ Edit your publish.yml and paste the [GitHub Pages workflow for Hugo](https://git
 2. git pull 
 3. hugo server 
 4. check the local site on safari
-
+g
 
 ## git commands 
 1. git pull 
