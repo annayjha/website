@@ -102,6 +102,10 @@ sections:
       title: Latest News & Travels
       subtitle:  
       text: |-
+        - ✈️ &nbsp; CCS 2024 @ Salt Lake City, USA (October 14 - 18)
+          - I will be presenting my paper "Organic or Diffused: Can We Distinguish Human Art from
+              AI-generated Images?"
+        - ✈️ &nbsp; USENIX Security 2024 @ Philadelphia, PA, USA (August 14 - 16)
         - ✈️ &nbsp; IEEE S&P @ San Francisco, CA, USA (May 20 - 23)
         - ✈️ &nbsp; CCS 2023 @ Copenhagen, Denmark (Nov 26 - 30)
         - ✈️ &nbsp; USENIX Security 2023 @ Anaheim, CA, USA (Aug 9 - 11)
