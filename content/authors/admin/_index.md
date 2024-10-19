@@ -33,16 +33,27 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Computer Science
-      institution: University of Chicago
-      year: 2028 (expected)
-    - course: MS in Electrical Engineering
-      institution: Korea University
+    - course: Computer Science PhD at University of Chicago
+      institution: 2028 (expected)
+      year: 
+    - course: MS at Korea University
+      institution: 
       year: 2023
-    - course: BS in Mechanical Engineering
-      institution: Korea University
+    - course: BS at Korea University
+      institution: 
       year: 2021
 
+# education:
+#   courses:
+#     - course: PhD in Computer Science
+#       institution: University of Chicago
+#       year: 2028 (expected)
+#     - course: MS in Electrical Engineering
+#       institution: Korea University
+#       year: 2023
+#     - course: BS in Mechanical Engineering
+#       institution: Korea University
+#       year: 2021
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
@@ -81,5 +92,5 @@ highlight_name: true
 ---
 <br/>
 
-I am a first year Computer Science Ph.D. candidate in the [SAND LAB](https://sandlab.cs.uchicago.edu/index.html) at University of Chicago co-advised by Prof. [Ben Y. Zhao](http://people.cs.uchicago.edu/~ravenben/) and Prof. [Heather Zheng](http://people.cs.uchicago.edu/~htzheng/). My research aims to develop models that can help protect users against malicious attacks. I am excited about problems that revolve around enabling safer and more practical machine learning algorithms. 
+I am a second year Computer Science Ph.D. candidate in the [SAND LAB](https://sandlab.cs.uchicago.edu/index.html) at University of Chicago co-advised by Prof. [Ben Y. Zhao](http://people.cs.uchicago.edu/~ravenben/) and Prof. [Heather Zheng](http://people.cs.uchicago.edu/~htzheng/). My research aims to develop models that can help protect users against malicious attacks. I am excited about problems that revolve around enabling safer and more practical machine learning algorithms. 
 
