@@ -237,7 +237,7 @@ sections:
         postcode: '60637'
         country: United States
         country_code: US
-      directions: John Crerar Library, Office 375
+      # directions: John Crerar Library, Office 375
       # office_hours: 
       #   - 'Monday 10:00 to 13:00'
       #   - 'Wednesday 09:00 to 10:00'
