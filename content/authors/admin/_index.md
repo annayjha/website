@@ -89,8 +89,17 @@ email: ''
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
+awards:
+  - "Distinguished Paper Award at CCS 2024"
 ---
 <br/>
 
 I am a second year Computer Science Ph.D. candidate in the [SAND LAB](https://sandlab.cs.uchicago.edu/index.html) at University of Chicago co-advised by Prof. [Ben Y. Zhao](http://people.cs.uchicago.edu/~ravenben/) and Prof. [Heather Zheng](http://people.cs.uchicago.edu/~htzheng/). My research aims to develop models that can help protect users against malicious attacks. I am excited about problems that revolve around enabling safer and more practical machine learning algorithms. 
 
+<!-- Awards Section -->
+## Awards
+
+<ul>
+  <li><i class="fas fa-award"></i> <strong>Distinguished Paper Award at CCS 2024</strong></li>
+  <!-- <li><i class="fas fa-award"></i> <strong>Best Researcher Award at University of Chicago</strong></li> -->
+</ul>
