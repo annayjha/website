@@ -1,5 +1,6 @@
 create a new website. 
 https://docs.hugoblox.com/getting-started/customize/
+
 1. change display page 
     content/authors/admin/_index.md <- customize this folder. 
 2. fix jeykll error by deleting line 64 and onwards from content/slides/example/index.md
@@ -29,6 +30,10 @@ Edit your publish.yml and paste the [GitHub Pages workflow for Hugo](https://git
 7. add publications 
 - add folder under /publications/ 
 - Make sure the "publishDate" near line 20 is not in the future!! 
+OR 
+
+hugo new content/publication/hemlock-new 
+https://bootstrap.hugoblox.com/content/publications/
 
 8. Changing Fonts/style using CSSS 
 - 'author_highlighted' class [for changing my name to bold/italics/underline](https://github.com/HugoBlox/hugo-blox-builder/blob/137ebf6fdc28a98ae9de519c5673df509344238c/modules/blox-bootstrap/assets/scss/wowchemy/elements/_content.scss#L154)
@@ -48,7 +53,7 @@ Edit your publish.yml and paste the [GitHub Pages workflow for Hugo](https://git
 ## git commands 
 1. git pull 
 2. git status 
-3. git add . 
+3. git add . c
 4. git commit -m ''
 5. git push
 ** create a separte branch? https://github.com/Kunena/Kunena-Forum/wiki/Create-a-new-branch-with-git-and-manage-branches
