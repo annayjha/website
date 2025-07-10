@@ -1,0 +1,37 @@
+{{ define "main" }}
+  <article class="publication-page">
+    <h1>{{ .Title }}</h1>
+    
+    <div class="publication__meta">
+      {{ if .Params.authors }}
+        <div class="publication__authors">
+          <strong>Authors:</strong> {{ range $index, $author := .Params.authors }}{{ if $index }}, {{ end }}{{ $author }}{{ end }}
+        </div>
+      {{ end }}
+      
+      {{ if .Params.publication }}
+        <div class="publication__venue">{{ .Params.publication | markdownify }}</div>
+      {{ end }}
+      
+      {{ if .Params.awards }}
+        <div class="publication-awards">
+          <strong>Awards:</strong>
+          <ul>
+            {{ range .Params.awards }}
+              <li>{{ . }}</li>
+            {{ end }}
+          </ul>
+        </div>
+      {{ end }}
+      
+      <!-- Add other metadata as needed -->
+    </div>
+    
+    <div class="publication__abstract">
+      <h2>Abstract</h2>
+      {{ .Params.abstract | markdownify }}
+    </div>
+    
+    <!-- Add other sections like PDF link, code, etc. -->
+  </article>
+{{ end }}
