@@ -26,7 +26,7 @@ publishDate: "2024-04-03T00:00:00Z"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Proceedings of ACM Conference on Computer and Communications Security (CCS).* **Distinguished Paper Award**"
+publication: "*Proceedings of ACM Conference on Computer and Communications Security (CCS)* **Distinguished Paper Award**"
 award: "Distinguished Paper Award at CCS 2024"
 publication_short: ""
 
