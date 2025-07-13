@@ -4,6 +4,13 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 # Appearance
+custom_scss:
+  - styles/custom.scss
+
+custom_scss:
+  - sccs/custom.scss
+
+
 
 appearance:
   theme_day: new
