@@ -58,3 +58,8 @@ https://bootstrap.hugoblox.com/content/publications/
 5. git push
 ** create a separte branch? https://github.com/Kunena/Kunena-Forum/wiki/Create-a-new-branch-with-git-and-manage-branches
 ** for prod and testing
+
+
+git fetch origin
+git reset --hard a694178
+git push origin main --force
