@@ -41,7 +41,7 @@ featured: false
 
 links:
 - name: "Link to paper"
-  url: "https://people.cs.uchicago.edu/~ravenben/publications/pdf/provenance-usenixsec26.pdf"
+  url: "https://www.usenix.org/system/files/conference/usenixsecurity26/sec26_prepub_ha.pdf"
 # url_pdf: '/publication/detectai/detectai_v1.pdf'
 # https://www.nature.com/articles/s41598-022-05615-y.pdf?pdf=button%20sticky
 # url_code: 'https://github.com/annayjha/'
