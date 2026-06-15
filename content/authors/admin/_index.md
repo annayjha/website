@@ -94,7 +94,13 @@ awards:
 ---
 <br/>
 
-I am a second year Computer Science Ph.D. candidate in the [SAND LAB](https://sandlab.cs.uchicago.edu/index.html) at University of Chicago co-advised by Prof. [Ben Y. Zhao](http://people.cs.uchicago.edu/~ravenben/) and Prof. [Heather Zheng](http://people.cs.uchicago.edu/~htzheng/). My research aims to develop models that can help protect users against malicious attacks. I am excited about problems that revolve around enabling safer and more practical machine learning algorithms. 
+I am a third year Computer Science Ph.D. candidate in the [SAND LAB](https://sandlab.cs.uchicago.edu/index.html) at University of Chicago co-advised by Prof. [Ben Y. Zhao](http://people.cs.uchicago.edu/~ravenben/) and Prof. [Heather Zheng](http://people.cs.uchicago.edu/~htzheng/). My research aims to understand how modern AI systems can be misused and develop practical tools to study and mitigate those risks. I am excited about problems that revolve around enabling safer and more practical machine learning algorithms. 
+
+ <!-- provide technical  that can help protect users against malicious attacks.  -->
+
+
+
+
 
 <!-- Awards Section -->
 ## Awards
